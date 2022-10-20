@@ -1,0 +1,3 @@
+[submodule "GP2040-CE Pico Template/Libraries/KiCad-RP-Pico"]
+	path = GP2040-CE Pico Template/Libraries/KiCad-RP-Pico
+	url = https://github.com/ncarandini/KiCad-RP-Pico.git
