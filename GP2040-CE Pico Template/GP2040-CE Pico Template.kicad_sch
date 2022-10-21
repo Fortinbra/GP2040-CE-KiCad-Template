@@ -1231,7 +1231,7 @@
   (symbol (lib_id "power:GND") (at 73.66 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 18e7eb7c-ebcc-4a49-ada1-72b13da212fb)
-    (property "Reference" "#PWR?" (id 0) (at 73.66 123.19 0)
+    (property "Reference" "#PWR04" (id 0) (at 73.66 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 73.66 121.92 0))
@@ -1247,7 +1247,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 78.74 111.76 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2473b1a8-488e-4379-8425-f896cd2f1d5d)
-    (property "Reference" "J?" (id 0) (at 81.28 110.4899 0)
+    (property "Reference" "J2" (id 0) (at 81.28 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x05" (id 1) (at 81.28 113.0299 0)
@@ -1325,7 +1325,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 78.74 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 4ff30f2b-6abe-4239-978c-baa5235f95fd)
-    (property "Reference" "J?" (id 0) (at 81.28 129.5399 0)
+    (property "Reference" "J3" (id 0) (at 81.28 129.5399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x04" (id 1) (at 81.28 132.0799 0)
@@ -1346,7 +1346,7 @@
   (symbol (lib_id "power:+3.3V") (at 62.23 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 601ca91d-6b4f-462b-8331-ba5a939afab5)
-    (property "Reference" "#PWR?" (id 0) (at 62.23 135.89 0)
+    (property "Reference" "#PWR03" (id 0) (at 62.23 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 62.23 127 0))
@@ -1362,7 +1362,7 @@
   (symbol (lib_id "power:+3.3V") (at 87.63 36.83 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 70ba730f-5ef9-431f-b712-3a9acff2bcba)
-    (property "Reference" "#PWR?" (id 0) (at 87.63 40.64 0)
+    (property "Reference" "#PWR07" (id 0) (at 87.63 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (id 1) (at 87.63 31.75 0))
@@ -1378,7 +1378,7 @@
   (symbol (lib_id "power:GND") (at 73.66 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 867cb96c-29bb-4111-941e-7c0f040187f3)
-    (property "Reference" "#PWR?" (id 0) (at 73.66 140.97 0)
+    (property "Reference" "#PWR05" (id 0) (at 73.66 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 73.66 139.7 0))
@@ -1394,7 +1394,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x23") (at 46.99 134.62 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9718bdfe-2b8a-4616-a9f4-5f49e5710f52)
-    (property "Reference" "J?" (id 0) (at 49.53 133.3499 0)
+    (property "Reference" "J1" (id 0) (at 49.53 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "Conn_01x23" (id 1) (at 49.53 135.8899 0)
@@ -1434,7 +1434,7 @@
   (symbol (lib_id "power:GND") (at 24.13 162.56 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid de5b71ae-0bff-4abd-80fc-e7d76a2e30e6)
-    (property "Reference" "#PWR?" (id 0) (at 24.13 168.91 0)
+    (property "Reference" "#PWR01" (id 0) (at 24.13 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 24.13 167.64 0))
@@ -1450,7 +1450,7 @@
   (symbol (lib_id "power:GND") (at 52.07 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid e4fd2165-142a-4dca-b0cd-a13cb5380477)
-    (property "Reference" "#PWR?" (id 0) (at 52.07 97.79 0)
+    (property "Reference" "#PWR02" (id 0) (at 52.07 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 52.07 96.52 0))
@@ -1466,7 +1466,7 @@
   (symbol (lib_id "power:+5V") (at 87.63 26.67 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f771d5a1-5b21-48db-a04d-28d2c19d596a)
-    (property "Reference" "#PWR?" (id 0) (at 87.63 30.48 0)
+    (property "Reference" "#PWR06" (id 0) (at 87.63 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 87.63 21.59 0))
@@ -1484,35 +1484,35 @@
   )
 
   (symbol_instances
-    (path "/18e7eb7c-ebcc-4a49-ada1-72b13da212fb"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/601ca91d-6b4f-462b-8331-ba5a939afab5"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/70ba730f-5ef9-431f-b712-3a9acff2bcba"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
-    )
-    (path "/867cb96c-29bb-4111-941e-7c0f040187f3"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
     (path "/de5b71ae-0bff-4abd-80fc-e7d76a2e30e6"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR01") (unit 1) (value "GND") (footprint "")
     )
     (path "/e4fd2165-142a-4dca-b0cd-a13cb5380477"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR02") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/601ca91d-6b4f-462b-8331-ba5a939afab5"
+      (reference "#PWR03") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/18e7eb7c-ebcc-4a49-ada1-72b13da212fb"
+      (reference "#PWR04") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/867cb96c-29bb-4111-941e-7c0f040187f3"
+      (reference "#PWR05") (unit 1) (value "GND") (footprint "")
     )
     (path "/f771d5a1-5b21-48db-a04d-28d2c19d596a"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR06") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/2473b1a8-488e-4379-8425-f896cd2f1d5d"
-      (reference "J?") (unit 1) (value "Conn_01x05") (footprint "")
-    )
-    (path "/4ff30f2b-6abe-4239-978c-baa5235f95fd"
-      (reference "J?") (unit 1) (value "Conn_01x04") (footprint "")
+    (path "/70ba730f-5ef9-431f-b712-3a9acff2bcba"
+      (reference "#PWR07") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/9718bdfe-2b8a-4616-a9f4-5f49e5710f52"
-      (reference "J?") (unit 1) (value "Conn_01x23") (footprint "")
+      (reference "J1") (unit 1) (value "Conn_01x23") (footprint "")
+    )
+    (path "/2473b1a8-488e-4379-8425-f896cd2f1d5d"
+      (reference "J2") (unit 1) (value "Conn_01x05") (footprint "")
+    )
+    (path "/4ff30f2b-6abe-4239-978c-baa5235f95fd"
+      (reference "J3") (unit 1) (value "Conn_01x04") (footprint "")
     )
     (path "/42a213e6-1ff0-4969-88f0-cb509c2ea9e9"
       (reference "U1") (unit 1) (value "Pico") (footprint "MCU_RaspberryPi_and_Boards:RPi_Pico_SMD_TH")
